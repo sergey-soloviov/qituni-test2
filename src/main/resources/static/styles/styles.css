@@ -1,0 +1,19 @@
+.front {
+    height: 500px;
+    background-image: url("../images/elsa.jpg");
+    padding-top: 100px;
+    background-position: 0 -120px;
+    text-align: center;
+}
+
+.front h1, .front h2 {
+    color: white;
+}
+
+.front h1 {
+    font-size: 60pt;
+}
+
+.front h2 {
+    font-size: 50pt;
+}
