@@ -1,6 +1,8 @@
 # Микросайт
 ## Открытие проекта
 
+Как пройти весь этот список вы увидете здесь: https://youtu.be/GbM09vhQgso.
+
 Для открытие проекта необходимо:
 1. Установить JDK 11 (https://www.oracle.com/java/technologies/javase-jdk11-downloads.html). 
 2. Установите среду разработки IntelliJ Idea Community Edition (https://www.jetbrains.com/idea/download).
